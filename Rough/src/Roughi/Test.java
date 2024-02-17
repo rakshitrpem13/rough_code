@@ -15,6 +15,8 @@ public class Test {
 		t.a1();
 		t.a2();
 		
+		System.out.println("welcome to all of you");
+		
 	}
 	
 
